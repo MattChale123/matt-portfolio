@@ -487,6 +487,9 @@ mark,
   max-width: 100%;
   height: auto;
 }
+.portfolio-header{
+  text-align: center;
+}
 
 .figure {
   display: inline-block;
